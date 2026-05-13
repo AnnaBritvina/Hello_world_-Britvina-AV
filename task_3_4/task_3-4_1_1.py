@@ -1,2 +1,0 @@
-bin                boot  etc   init  lib.usr-is-merged  lost+found  mnt  proc  run   sbin.usr-is-merged  srv  tmp  var
-bin.usr-is-merged  dev   home  lib   lib64              media       opt  root  sbin  snap                sys  usr
