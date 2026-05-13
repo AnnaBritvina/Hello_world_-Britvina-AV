@@ -1,0 +1,7 @@
+0	./.idea/inspectionProfiles
+4.0K	./.idea
+0	./linux-practice/backups
+0	./linux-practice/documents
+0	./linux-practice/images
+0	./linux-practice
+12K	./
